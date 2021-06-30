@@ -1,2 +1,1 @@
-# Tetris 미리보기
-로그인 화면만 볼 수 있습니다.
+# my portfolio
