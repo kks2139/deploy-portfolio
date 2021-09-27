@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kks2139/kks2139.github.io/static/css/main.5e91b8dd.chunk.css",
-    "main.js": "/kks2139/kks2139.github.io/static/js/main.846732dc.chunk.js",
-    "main.js.map": "/kks2139/kks2139.github.io/static/js/main.846732dc.chunk.js.map",
-    "runtime-main.js": "/kks2139/kks2139.github.io/static/js/runtime-main.0738fcbb.js",
-    "runtime-main.js.map": "/kks2139/kks2139.github.io/static/js/runtime-main.0738fcbb.js.map",
-    "static/js/2.2db64616.chunk.js": "/kks2139/kks2139.github.io/static/js/2.2db64616.chunk.js",
-    "static/js/2.2db64616.chunk.js.map": "/kks2139/kks2139.github.io/static/js/2.2db64616.chunk.js.map",
-    "static/js/3.fbdb036b.chunk.js": "/kks2139/kks2139.github.io/static/js/3.fbdb036b.chunk.js",
-    "static/js/3.fbdb036b.chunk.js.map": "/kks2139/kks2139.github.io/static/js/3.fbdb036b.chunk.js.map",
-    "index.html": "/kks2139/kks2139.github.io/index.html",
-    "static/css/main.5e91b8dd.chunk.css.map": "/kks2139/kks2139.github.io/static/css/main.5e91b8dd.chunk.css.map",
-    "static/js/2.2db64616.chunk.js.LICENSE.txt": "/kks2139/kks2139.github.io/static/js/2.2db64616.chunk.js.LICENSE.txt"
+    "main.css": "/kks2139.github.io/static/css/main.5e91b8dd.chunk.css",
+    "main.js": "/kks2139.github.io/static/js/main.846732dc.chunk.js",
+    "main.js.map": "/kks2139.github.io/static/js/main.846732dc.chunk.js.map",
+    "runtime-main.js": "/kks2139.github.io/static/js/runtime-main.f74f5291.js",
+    "runtime-main.js.map": "/kks2139.github.io/static/js/runtime-main.f74f5291.js.map",
+    "static/js/2.2db64616.chunk.js": "/kks2139.github.io/static/js/2.2db64616.chunk.js",
+    "static/js/2.2db64616.chunk.js.map": "/kks2139.github.io/static/js/2.2db64616.chunk.js.map",
+    "static/js/3.fbdb036b.chunk.js": "/kks2139.github.io/static/js/3.fbdb036b.chunk.js",
+    "static/js/3.fbdb036b.chunk.js.map": "/kks2139.github.io/static/js/3.fbdb036b.chunk.js.map",
+    "index.html": "/kks2139.github.io/index.html",
+    "static/css/main.5e91b8dd.chunk.css.map": "/kks2139.github.io/static/css/main.5e91b8dd.chunk.css.map",
+    "static/js/2.2db64616.chunk.js.LICENSE.txt": "/kks2139.github.io/static/js/2.2db64616.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0738fcbb.js",
+    "static/js/runtime-main.f74f5291.js",
     "static/js/2.2db64616.chunk.js",
     "static/css/main.5e91b8dd.chunk.css",
     "static/js/main.846732dc.chunk.js"
