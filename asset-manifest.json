@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/kks2139.github.io/static/css/main.5e91b8dd.chunk.css",
-    "main.js": "/kks2139.github.io/static/js/main.846732dc.chunk.js",
-    "main.js.map": "/kks2139.github.io/static/js/main.846732dc.chunk.js.map",
-    "runtime-main.js": "/kks2139.github.io/static/js/runtime-main.f74f5291.js",
-    "runtime-main.js.map": "/kks2139.github.io/static/js/runtime-main.f74f5291.js.map",
-    "static/js/2.2db64616.chunk.js": "/kks2139.github.io/static/js/2.2db64616.chunk.js",
-    "static/js/2.2db64616.chunk.js.map": "/kks2139.github.io/static/js/2.2db64616.chunk.js.map",
-    "static/js/3.fbdb036b.chunk.js": "/kks2139.github.io/static/js/3.fbdb036b.chunk.js",
-    "static/js/3.fbdb036b.chunk.js.map": "/kks2139.github.io/static/js/3.fbdb036b.chunk.js.map",
-    "index.html": "/kks2139.github.io/index.html",
-    "static/css/main.5e91b8dd.chunk.css.map": "/kks2139.github.io/static/css/main.5e91b8dd.chunk.css.map",
-    "static/js/2.2db64616.chunk.js.LICENSE.txt": "/kks2139.github.io/static/js/2.2db64616.chunk.js.LICENSE.txt"
+    "main.css": "/deploy-portfolio/static/css/main.5e91b8dd.chunk.css",
+    "main.js": "/deploy-portfolio/static/js/main.846732dc.chunk.js",
+    "main.js.map": "/deploy-portfolio/static/js/main.846732dc.chunk.js.map",
+    "runtime-main.js": "/deploy-portfolio/static/js/runtime-main.9f7a015c.js",
+    "runtime-main.js.map": "/deploy-portfolio/static/js/runtime-main.9f7a015c.js.map",
+    "static/js/2.2db64616.chunk.js": "/deploy-portfolio/static/js/2.2db64616.chunk.js",
+    "static/js/2.2db64616.chunk.js.map": "/deploy-portfolio/static/js/2.2db64616.chunk.js.map",
+    "static/js/3.fbdb036b.chunk.js": "/deploy-portfolio/static/js/3.fbdb036b.chunk.js",
+    "static/js/3.fbdb036b.chunk.js.map": "/deploy-portfolio/static/js/3.fbdb036b.chunk.js.map",
+    "index.html": "/deploy-portfolio/index.html",
+    "static/css/main.5e91b8dd.chunk.css.map": "/deploy-portfolio/static/css/main.5e91b8dd.chunk.css.map",
+    "static/js/2.2db64616.chunk.js.LICENSE.txt": "/deploy-portfolio/static/js/2.2db64616.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.f74f5291.js",
+    "static/js/runtime-main.9f7a015c.js",
     "static/js/2.2db64616.chunk.js",
     "static/css/main.5e91b8dd.chunk.css",
     "static/js/main.846732dc.chunk.js"
