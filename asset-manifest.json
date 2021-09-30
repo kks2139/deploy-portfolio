@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/deploy-portfolio/static/css/main.f863f7dc.chunk.css",
-    "main.js": "/deploy-portfolio/static/js/main.ef72af49.chunk.js",
-    "main.js.map": "/deploy-portfolio/static/js/main.ef72af49.chunk.js.map",
+    "main.css": "/deploy-portfolio/static/css/main.4631ab38.chunk.css",
+    "main.js": "/deploy-portfolio/static/js/main.4e93a84f.chunk.js",
+    "main.js.map": "/deploy-portfolio/static/js/main.4e93a84f.chunk.js.map",
     "runtime-main.js": "/deploy-portfolio/static/js/runtime-main.b965c8c8.js",
     "runtime-main.js.map": "/deploy-portfolio/static/js/runtime-main.b965c8c8.js.map",
     "static/js/2.219b3a1c.chunk.js": "/deploy-portfolio/static/js/2.219b3a1c.chunk.js",
@@ -10,14 +10,14 @@
     "static/js/3.61c0b592.chunk.js": "/deploy-portfolio/static/js/3.61c0b592.chunk.js",
     "static/js/3.61c0b592.chunk.js.map": "/deploy-portfolio/static/js/3.61c0b592.chunk.js.map",
     "index.html": "/deploy-portfolio/index.html",
-    "static/css/main.f863f7dc.chunk.css.map": "/deploy-portfolio/static/css/main.f863f7dc.chunk.css.map",
+    "static/css/main.4631ab38.chunk.css.map": "/deploy-portfolio/static/css/main.4631ab38.chunk.css.map",
     "static/js/2.219b3a1c.chunk.js.LICENSE.txt": "/deploy-portfolio/static/js/2.219b3a1c.chunk.js.LICENSE.txt",
     "static/media/stary-sky.e74961c7.jpg": "/deploy-portfolio/static/media/stary-sky.e74961c7.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.b965c8c8.js",
     "static/js/2.219b3a1c.chunk.js",
-    "static/css/main.f863f7dc.chunk.css",
-    "static/js/main.ef72af49.chunk.js"
+    "static/css/main.4631ab38.chunk.css",
+    "static/js/main.4e93a84f.chunk.js"
   ]
 }
